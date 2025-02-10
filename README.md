@@ -1,4 +1,5 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="image.png" alt="GitHub Banner" width="100%" />
+
 
 # Hello World!, I'm Devansh, a Full Stack Web Developer 👋🏼:
 🛜 currently working on my own portfolio website<br>👨🏼‍🎓 studying software product engineering from Bengaluru <br>👨🏼‍💻 working as a web developer since 2024 <br>
