@@ -25,14 +25,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=Devansh1974&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Devansh1974&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
 ![snake gif](https://github.com/Devansh1974/Devansh1974/blob/output/github-snake-dark.svg)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+
