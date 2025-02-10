@@ -29,7 +29,7 @@
 
 
 
-![snake gif](https://github.com/Devansh1974/Devansh1974/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Devansh1974/Devansh1974/blob/output/github-snake.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
