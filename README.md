@@ -58,6 +58,14 @@ Let's connect and create something amazing! 🚀
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Devansh1974&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Devansh1974&theme=github" alt="Contribution Graph" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devansh1974&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+
 ---
 
 
