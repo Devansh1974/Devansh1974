@@ -1,10 +1,33 @@
 <img src="image.png" alt="GitHub Banner" width="100%" />
 
+# 👋🏼 Hey there, I'm Devansh – Full Stack Developer Crafting Innovative Solutions!
 
-# Hello World!, I'm Devansh, a Full Stack Web Developer 👋🏼:
-🛜 currently working on my own portfolio website<br>👨🏼‍🎓 studying software product engineering from Bengaluru <br>👨🏼‍💻 working as a web developer since 2024 <br>
+🚀 **Currently immersed in:**
+- 🔬 My **Capstone Project** – pushing the boundaries of creativity and technology.
+- 🤖 Developing an advanced **AI Bot** to enhance intelligent automation.
+- 🎯 Collaborating on **SkillBoost AI Career Planner** – a project aimed at empowering career growth through AI-driven insights.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Devansh1974&style=for-the-badge&color=green)
+💡 **Explore my GitHub to discover a variety of projects, including:**
+- 🌦️ A dynamic **Weather App** with geolocation and detailed forecasts
+- 🎲 A fun **Snake and Ladder Game**
+- 🎬 A **Jio Cinema Clone** built with **React.js**
+- 🧮 A sleek **Calculator**
+- ⏳ A handy **Countdown Timer App**
+- 📊 An intuitive **Expense Tracker**
+- 🎨 Multiple creative projects styled using **Tailwind CSS**
+
+🎓 Currently pursuing **Software Product Engineering** from Bengaluru, while continually refining my skills and embracing new challenges.
+
+💻 Passionate about building seamless digital experiences and diving deep into full-stack development since 2024.
+
+Let's connect and create something amazing! 🚀
+
+
+---
+## 👀 Profile Views:
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Devansh1974&style=flat-square&color=blue" alt="Profile Views" />
+</div>
 
 ## 🌐 Socials:
 <div align="center">
