@@ -26,8 +26,9 @@ Let's connect and create something amazing! 🚀
 ---
 ## 👀 Profile Views:
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devansh1974&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Devansh1974&style=flat-square&color=blue" alt="Profile Views" width="200" height="50"/>
 </div>
+
 
 ## 🌐 Socials:
 <div align="center">
