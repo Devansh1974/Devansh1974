@@ -4,6 +4,7 @@
 # Hello World!, I'm Devansh, a Full Stack Web Developer 👋🏼:
 🛜 currently working on my own portfolio website<br>👨🏼‍🎓 studying software product engineering from Bengaluru <br>👨🏼‍💻 working as a web developer since 2024 <br>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Devansh1974&style=for-the-badge&color=green)
 
 ## 🌐 Socials:
 <div align="center">
@@ -36,5 +37,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devansh1974/Devansh1974/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Devansh1974/Devansh1974/output/github-snake.svg" />
 </picture>
-
-
