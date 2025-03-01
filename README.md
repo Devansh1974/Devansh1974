@@ -3,15 +3,15 @@
 # 👋🏼 Hey there, I'm Devansh – Full Stack Developer Crafting Innovative Solutions!
 
 🚀 **Currently immersed in:**
-- 🔬 My **Capstone Project** – pushing the boundaries of creativity and technology.
-- 🤖 Developed an advanced **Dev AI Bot** to enhance intelligent automation. [Click Here to Try](https://dev-ai-bot.netlify.app/)
+- 🔬 My **Capstone Project** – pushing the boundaries of Finance and technology and solving Real world probem.
 - 🎯 Collaborating on **SkillBoost AI Career Planner** – a project aimed at empowering career growth through AI-driven insights.
 
 💡 **Explore my GitHub to discover a variety of projects, including:**
-- 🌦️ A dynamic **Weather App** with geolocation and detailed forecasts
-- 🎲 A fun **Snake and Ladder Game**
+- 🤖 Developed an advanced **Dev AI Bot** to enhance intelligent automation. [Click Here to Try](https://dev-ai-bot.netlify.app/)
+- 🌦️ A dynamic **Weather App** with geolocation and detailed forecasts. [Click Here to Try](https://check-weather11.netlify.app/)
+- 🎲 A fun **Snake and Ladder Game**. [Click Here to Try](https://playsnakeladder.netlify.app/)
 - 🎬 A **Jio Cinema Clone** built with **React.js**
-- 🧮 A sleek **Calculator**
+- 🧮 A sleek **Calculator** [Click Here to Try](https://simple-calculator-41.netlify.app/)
 - ⏳ A handy **Countdown Timer App**
 - 📊 An intuitive **Expense Tracker**
 - 🎨 Multiple creative projects styled using **Tailwind CSS**
