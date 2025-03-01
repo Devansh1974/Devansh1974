@@ -4,7 +4,7 @@
 
 🚀 **Currently immersed in:**
 - 🔬 My **Capstone Project** – pushing the boundaries of creativity and technology.
-- 🤖 Developing an advanced **AI Bot** to enhance intelligent automation.
+- 🤖 Developed an advanced **Dev AI Bot** to enhance intelligent automation. [Click Here to Try](https://dev-ai-bot.netlify.app/)
 - 🎯 Collaborating on **SkillBoost AI Career Planner** – a project aimed at empowering career growth through AI-driven insights.
 
 💡 **Explore my GitHub to discover a variety of projects, including:**
