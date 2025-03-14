@@ -4,7 +4,7 @@
 
 🚀 **Currently immersed in:**
 - 🔬 My **Capstone Project** – pushing the boundaries of Finance and technology and solving Real world probem.
-- 🎯 Collaborating on **SkillBoost AI Career Planner** – A project aimed at empowering career growth through AI-driven insights.
+- 🎯 Collaborating on **SkillBoost AI-Career Planner** – A project aimed at empowering career growth through AI-driven insights.
 
 💡 **Explore my GitHub to discover a variety of projects, including:**
 - 🤖 Developed an advanced **Dev AI Bot** to enhance intelligent automation. [Click Here to Try](https://dev-ai-bot.netlify.app/)
