@@ -13,7 +13,7 @@
 - 🎬 A **Jio Cinema Clone** built with **React.js**
 - 🧮 A sleek **Calculator** [Click Here to Try](https://simple-calculator-41.netlify.app/)
 - ⏳ A handy **Countdown Timer App**
-- 📊 An intuitive **Expense Tracker**
+- 📊 An intuitive **Expense Tracker** that helps you to manage your expenses handy.
 - 🎨 Multiple creative projects styled using **Tailwind CSS**
 
 🎓 Currently pursuing **Software Product Engineering** from Bengaluru, while continually refining my skills and embracing new challenges.
