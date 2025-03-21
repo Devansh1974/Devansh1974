@@ -9,7 +9,7 @@
 
 💡 **Explore my GitHub to discover a variety of projects, including:**
 
-- 🏭 Build a Factory-Health & Maintenance system ([Check_GitHub](https://github.com/Devansh1974/Factory_Maintainance_LLM_Model)) using LLMs and AI for predictive maintenance and optimized operational costs.
+- 🏭 Build a Factory-Health Check & Maintenance system ([Check_GitHub](https://github.com/Devansh1974/Factory_Maintainance_LLM_Model)) using LLMs and AI for predictive maintenance and optimized operational costs.
 - 🤖 Developed an advanced **Dev AI Bot** to enhance intelligent automation. [Click Here to Try](https://dev-ai-bot.netlify.app/)
 - 🌦️ A dynamic **Weather App** with geolocation and detailed forecasts. [Click Here to Try](https://check-weather11.netlify.app/)
 - 🎲 A fun **Snake and Ladder Game**. [Click Here to Try](https://playsnakeladder.netlify.app/)
