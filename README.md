@@ -3,7 +3,7 @@
 # 👋🏼 Hey there, I'm Devansh – Full Stack Developer Crafting Innovative Solutions!
 
 🚀 **Currently immersed in:**
-- 🔬 My **Capstone Project** – Pushing the boundaries of Finance and technology and solving Real world probem.
+- 🔬 My **Capstone Project** – **StockBeacon** Pushing the boundaries of Finance and technology and solving Real world probem.
 - 🎯 Collaborating on **SkillBoost AI-Career Planner** – A project aimed at empowering career growth through AI-driven insights.
 - 💁 Making FOREVER-ECommerce Website - frontend & backend with Admin page. ([Check_GitHub](https://github.com/Devansh1974/e-commerce-forever))
 
