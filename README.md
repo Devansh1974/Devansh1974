@@ -17,7 +17,7 @@
 - 🧮 A sleek **Calculator** [Click Here to Try](https://simple-calculator-41.netlify.app/)
 - ⏳ A handy **Countdown Timer App**
 - 📊 An intuitive **Expense Tracker** that helps you to manage your expenses handy.
-- 🎨 Multiple creative projects styled using **Tailwind CSS**
+- 🎨 Multiple creative projects styled using **Tailwind CSS** with good UI's.
 
 🎓 Currently pursuing **Software Product Engineering** from Bengaluru, while continually refining my skills and embracing new challenges.
 
