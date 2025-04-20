@@ -9,7 +9,7 @@
 
 💡 **Explore my GitHub to discover a variety of projects, including:**
 
-- Developer a MCP tool for TwitterPost using MCP Server and Gemini. [Check Code](https://github.com/Devansh1974/MCP_AI_Server_Agent)
+- Developed a MCP tool for TwitterPost using MCP Server and Gemini. [Check Code](https://github.com/Devansh1974/MCP_AI_Server_Agent)
 
 - 🏭 Build a Factory-Health Check & Maintenance system ([Check_GitHub](https://github.com/Devansh1974/Factory_Maintainance_LLM_Model)) using LLMs and AI for predictive maintenance and optimized operational costs.
 - 🤖 Developed an advanced **Dev AI Bot** to enhance intelligent automation. [Click Here to Try](https://dev-ai-bot.netlify.app/)
