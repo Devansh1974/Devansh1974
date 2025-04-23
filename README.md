@@ -23,7 +23,7 @@
 
 🎓 Currently pursuing **Software Product Engineering** from Bengaluru, while continually refining my skills and embracing new challenges.
 
-💻 Passionate about building seamless digital experiences and diving deep into full-stack development since 2024.
+💻 Passionate about building seamless Digital experiences and diving deep into full-stack development since 2024.
 
 Let's connect & create something amazing for the World ! 🚀
 
