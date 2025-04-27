@@ -25,7 +25,7 @@
 
 💻 Passionate about building seamless Digital experiences and diving deep into full-stack development since 2024.
 
-Let's Connect & create something amazing for the World ! 🚀
+Let's Connect & Create something amazing for the World ! 🚀
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Devansh1974&style=flat-square&color=blue" alt="Profile Views" width="200" height="50"/>
