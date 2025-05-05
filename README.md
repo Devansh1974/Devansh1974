@@ -21,7 +21,7 @@
 - 📊 An intuitive **Expense Tracker** that helps you to manage your expenses handy.
 - 🎨 Multiple creative projects styled using **Tailwind CSS** with good UI's.
 
-🎓 Currently pursuing **Software Product Engineering** from Bengaluru, while continually Refining my Skills and embracing new challenges.
+🎓 Currently pursuing **Software Product Engineering** from Bengaluru, while Continually Refining my Skills and embracing new challenges.
 
 💻 Passionate about building seamless Digital experiences and diving deep into Full-stack development since 2024.
 
