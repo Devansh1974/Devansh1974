@@ -7,7 +7,7 @@
 - 🎯 Collaborating on **SkillBoost AI-Career Planner** – A project aimed at empowering career growth through AI-driven insights.
 - 💁 Making FOREVER-ECommerce Website - frontend & backend with Admin page. ([Check_GitHub](https://github.com/Devansh1974/e-commerce-forever))
 
-💡 **Explore my GitHub to discover a variety of projects, including:**
+💡 **Explore my GitHub to Discover a variety of projects, including:**
 
 - Developed a MCP tool for TwitterPost using MCP Server and Gemini AI, which can create a post and POST it on your X. [Check Code](https://github.com/Devansh1974/MCP_AI_Server_Agent)
 
