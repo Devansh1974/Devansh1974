@@ -1,6 +1,13 @@
 <img src="image.png" alt="GitHub Banner" width="100%" />
 
 # 👋🏼 Hey there, I'm Devansh – Full Stack Developer Crafting Innovative Solutions!
+<div>
+  <h1 align="center"> Hi, I'm <a href="https://www.linkedin.com/in/aashish-dhiman/" target="_blank"> Aashish Dhiman </a> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
+<p></h1>
+<!-- <h3 align="right" > <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=MERN+Stack+Developer+%3A)" /> </h3> -->
+<p align="right">
+  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;Crafting+UI+using+React.js+and+Next.js!;I'm+a+MERN+stack+developer!;Bringing+ideas+to+life+with+creativity+and+code!" />
+</p>
 
 🚀 **Currently immersed in:**
 - 🔬 My **Capstone Project** – **StockBeacon** Pushing the boundaries of Finance and technology and solving Real world probem.
