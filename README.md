@@ -1,6 +1,6 @@
 <img src="image.png" alt="GitHub Banner" width="100%" />
 
-<!-- # 👋🏼 Hey there, I'm Devansh – Full Stack Developer Crafting Innovative Solutions -->
+<!-- # 👋🏼 Hey there, I'm Devansh – Full Stack Developer Crafting Innovative Solutions --->
 <div>
   <h1 align="center"> Hi, I'm <a href="https://www.linkedin.com/in/devanshsingh2006/" target="_blank"> DEVANSH SINGH </a> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 <p></h1>
