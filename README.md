@@ -1,4 +1,4 @@
-<img src="image.png" alt="GitHub Banner" width="100%" />
+<img src="image1.jpeg" alt="GitHub Banner" width="100%" />
 
 <!-- # 👋🏼 Hey there, I'm Devansh – Full Stack Developer Crafting Innovative Solutions --->
 <div>
