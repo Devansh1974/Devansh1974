@@ -41,18 +41,25 @@ Let's Connect & Create something amazing for the World ! 🚀
 ## 🌐 Socials:
 <div align="center">
   <a href="https://www.linkedin.com/in/devanshsingh2006/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn logo" />
   </a>
   <a href="https://www.instagram.com/dev.ansh_s/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Instagram logo" />
   </a>
   <a href="https://twitter.com/D3v_Raghuvanshi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="X logo" />
+    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="X logo" />
   </a>
   <a href="https://leetcode.com/u/Devansh1974/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LeetCode logo" />
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LeetCode logo" />
+  </a>
+  <a href="https://www.codechef.com/users/devansh1974" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="CodeChef logo" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/devanshsiuqaq/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=0F9D58&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="GeeksforGeeks logo" />
   </a>
 </div>
+
 
 
 # 💻 Tech Stack
