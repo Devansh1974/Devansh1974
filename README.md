@@ -107,7 +107,7 @@ I’m **Devansh Singh**, a passionate **Full Stack Web Developer** and **AI Enth
 
 ---
 
-<dev align="center">
+<div align="center">
 
 ## 💻 Tech Stack
 
