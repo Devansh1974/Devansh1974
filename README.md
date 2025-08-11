@@ -31,7 +31,9 @@ I’m **Devansh Singh**, a passionate **Full Stack Web Developer** and **AI Enth
 - 🌱 Always learning, building, and sharing with the community  
 
 📬 **Let’s Connect:** [LinkedIn](https://www.linkedin.com/in/devanshsingh2006/) | [Portfolio](https://yourportfolio.com)
+
 ---
+
 ## 🚀 Currently Building
 
 - **StockBeacon** – Finance & stock analysis platform with AI insights.  
