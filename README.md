@@ -87,22 +87,6 @@ I’m **Devansh Singh**, a passionate **Full Stack Web Developer** and **AI Enth
   </a>
 
 
-  
-  <br><br>
-
-
-  
-  <!-- Coding Profiles -->
-  <a href="https://leetcode.com/u/Devansh1974/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LeetCode logo" />
-  </a>
-  <a href="https://www.codechef.com/users/devansh1974" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="CodeChef logo" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/devanshsiuqaq/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=0F9D58&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="GeeksforGeeks logo" />
-  </a>
-
 </div>
 
 ---
