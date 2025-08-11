@@ -34,6 +34,8 @@ I’m **Devansh Singh**, a passionate **Full Stack Web Developer** and **AI Enth
 
 ---
 
+<div align="center">
+
 ## 🚀 Currently Building
 
 | Project | Tech Stack |
@@ -47,55 +49,17 @@ I’m **Devansh Singh**, a passionate **Full Stack Web Developer** and **AI Enth
 
 | Project | Tech Stack |
 |---------|------------|
-| **Chatty – Full Stack Chat App** – Real-time messaging with Socket.io.<br/>[🔗 Live](https://chatty-onlinechattingapp.onrender.com/) \| [🔗 GitHub](https://github.com/Devansh1974/chat_app_fullstack) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white) |
-| **Dev AI Bot** – AI-powered assistant for intelligent automation.<br/>[🔗 Live](https://dev-ai-bot.netlify.app/) \| [🔗 GitHub](https://github.com/Devansh1974/Dev_AI_Bot) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white) |
+| **Chatty – Full Stack Chat App** – Real-time messaging with Socket.io.<br/>[🔗 Live](https://chatty-onlinechattingapp.onrender.com/) \| [🔗 GitHub](https://github.com/Devansh1974/chat_app_fullstack) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white) ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) |
+| **Dev AI Bot** – AI-powered assistant for intelligent automation.<br/>[🔗 Live](https://dev-ai-bot.netlify.app/) \| [🔗 GitHub](https://github.com/Devansh1974/Dev_AI_Bot) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white) |
 | **MCP Twitter Post Tool** – Auto-generate & post tweets using MCP Server + Gemini AI.<br/>[🔗 GitHub](https://github.com/Devansh1974/MCP_AI_Server_Agent) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white) |
-| **Weather App** – Location-based forecasts using OpenWeather API.<br/>[🔗 GitHub](https://github.com/Devansh1974/Weather-App) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![OpenWeather API](https://img.shields.io/badge/OpenWeatherAPI-FF7E00?style=for-the-badge&logo=openweathermap&logoColor=white) |
+| **Weather App** – Location-based forecasts using OpenWeather API.<br/>[🔗 Live](https://pomodoro-app-react-vite.vercel.app/) \| [🔗 GitHub](https://github.com/Devansh1974/Weather-App) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![OpenWeather API](https://img.shields.io/badge/OpenWeatherAPI-FF7E00?style=for-the-badge&logo=openweathermap&logoColor=white) |
+| **Pomodoro App** – Time management tool built with React + Vite.<br/>[🔗 Live](https://pomodoro-app-react-vite.vercel.app/) \| [🔗 GitHub](https://github.com/Devansh1974/pomodoro_App_ReactVite) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) |
+| **Jio Cinema Clone** – Video streaming UI built with React.<br/>[🔗 GitHub](https://github.com/Devansh1974/Jio-Cinema-UsingReactJS) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Meme Generator** – Create & download custom memes.<br/>[🔗 Live](https://meme-generator-frontend.netlify.app/) \| [🔗 GitHub](https://github.com/Devansh1974/Meme-Generator-Frontend) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Snake & Ladder** – Classic board game in the browser.<br/>[🔗 Live](https://playsnakeladder.netlify.app/) \| [🔗 GitHub](https://github.com/Devansh1974/SnakeAndLadder) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| **Calculator** – Simple calculator web app.<br/>[🔗 Live](https://simple-calculator-41.netlify.app/) \| [🔗 GitHub](https://github.com/Devansh1974/Simple-Calculator-Frontend) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
 
-
----
-
-
-## 🚀 Currently Building
-
-- **StockBeacon** – Finance & stock analysis platform with AI insights.  
-  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white) 
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
-  🔗 [GitHub](https://github.com/Devansh1974/S69_Devansh_Capstone_StockBeacon)
-
-- **FOREVER – Ecommerce Platform** – MERN stack store with admin dashboard.  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) 
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) 
-  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white)  
-  🔗 [GitHub](https://github.com/Devansh1974/e-commerce-forever)
-
----
-
-## 🌟 Featured Projects
-
-- **Chatty – Full Stack Chat App** – Real-time messaging with Socket.io.  
-  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white) 
-  ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)  
-  🔗 [Live](https://chatty-onlinechattingapp.onrender.com/) | [GitHub](https://github.com/Devansh1974/chat_app_fullstack)
-
-- **Dev AI Bot** – AI-powered assistant for intelligent automation.  
-  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
-  ![OpenAI](https://img.shields.io/badge/AI-Assistant-blue?style=flat)  
-  🔗 [Live](https://dev-ai-bot.netlify.app/) | [GitHub](https://github.com/Devansh1974/Dev_AI_Bot)
-
-- **MCP Twitter Post Tool** – Auto-generate & post tweets using MCP Server + Gemini AI.  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-  ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-blue?style=flat&logo=google)  
-  🔗 [GitHub](https://github.com/Devansh1974/MCP_AI_Server_Agent)
-
-- **Weather App** – Location-based forecasts using OpenWeather API.  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-  ![API](https://img.shields.io/badge/OpenWeatherAPI-FF5733?style=flat)  
-  🔗 [Live](https://check-weather11.netlify.app/) | [GitHub](https://github.com/Devansh1974/Weather-App)
-
+</div>
 
 Let's Connect & Create something amazing for the World ! 🚀
 
