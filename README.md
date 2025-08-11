@@ -65,8 +65,9 @@ Let's Connect & Create something amazing for the World ! 🚀
 </div>
 
 
-## 🌐 Socials:
 <div align="center">
+
+## 🌐 Socials:
   
   <!-- Networking & Social -->
   <a href="https://www.linkedin.com/in/devanshsingh2006/" target="_blank">
@@ -105,8 +106,10 @@ Let's Connect & Create something amazing for the World ! 🚀
 </div>
 
 
-## 💻 Tech Stack
+
 <p align="center">
+## 💻 Tech Stack
+
   <!-- 🎨 Frontend & UI/UX -->
   <b>🎨 Frontend & UI/UX</b><br>
   <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
@@ -162,9 +165,10 @@ Let's Connect & Create something amazing for the World ! 🚀
 </p>
 
 ---
-## 📊 GitHub Stats & Trophies
 
 <div align="center">
+
+## 📊 GitHub Stats & Trophies
 
   <!-- Stats and Most Used Languages Side by Side -->
   <table>
