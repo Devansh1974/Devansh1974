@@ -36,6 +36,28 @@ I’m **Devansh Singh**, a passionate **Full Stack Web Developer** and **AI Enth
 
 ## 🚀 Currently Building
 
+| Project | Tech Stack |
+|---------|------------|
+| **StockBeacon** – Finance & stock analysis platform with AI insights.<br/>[🔗 GitHub](https://github.com/Devansh1974/S69_Devansh_Capstone_StockBeacon) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **FOREVER – Ecommerce Platform** – MERN stack store with admin dashboard.<br/>[🔗 GitHub](https://github.com/Devansh1974/e-commerce-forever) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) |
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Tech Stack |
+|---------|------------|
+| **Chatty – Full Stack Chat App** – Real-time messaging with Socket.io.<br/>[🔗 Live](https://chatty-onlinechattingapp.onrender.com/) \| [🔗 GitHub](https://github.com/Devansh1974/chat_app_fullstack) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white) |
+| **Dev AI Bot** – AI-powered assistant for intelligent automation.<br/>[🔗 Live](https://dev-ai-bot.netlify.app/) \| [🔗 GitHub](https://github.com/Devansh1974/Dev_AI_Bot) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white) |
+| **MCP Twitter Post Tool** – Auto-generate & post tweets using MCP Server + Gemini AI.<br/>[🔗 GitHub](https://github.com/Devansh1974/MCP_AI_Server_Agent) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white) |
+| **Weather App** – Location-based forecasts using OpenWeather API.<br/>[🔗 GitHub](https://github.com/Devansh1974/Weather-App) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![OpenWeather API](https://img.shields.io/badge/OpenWeatherAPI-FF7E00?style=for-the-badge&logo=openweathermap&logoColor=white) |
+
+
+---
+
+
+## 🚀 Currently Building
+
 - **StockBeacon** – Finance & stock analysis platform with AI insights.  
   ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white) 
