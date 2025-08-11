@@ -23,18 +23,18 @@
 
 ---
 
+<div align="center">
+
 ## 🚀 About Me  
 I’m **Devansh Singh**, a passionate **Full Stack Web Developer** and **AI Enthusiast** who loves crafting ideas into impactful digital experiences.  
-- 💻 Expert in **MERN Stack** & modern frameworks like **Next.js**  
-- 🤖 Exploring the world of **Machine Learning** & automation tools  
-- 🎯 Focused on **scalable, creative, and high-performance** applications  
-- 🌱 Always learning, building, and sharing with the community  
+💻 Expert in **MERN Stack** & modern frameworks like **Next.js**  
+🤖 Exploring the world of **Machine Learning** & automation tools  
+🎯 Focused on **scalable, creative, and high-performance** applications  
+🌱 Always learning, building, and sharing with the community  
 
-📬 **Let’s Connect:** [LinkedIn](https://www.linkedin.com/in/devanshsingh2006/) | [Portfolio](https://yourportfolio.com)
+📬 **Let’s Connect:** [LinkedIn](https://www.linkedin.com/in/devanshsingh2006/) | [Portfolio](https://yourportfolio.com)  
 
 ---
-
-<div align="center">
 
 ## 🚀 Currently Building
 
@@ -55,17 +55,15 @@ I’m **Devansh Singh**, a passionate **Full Stack Web Developer** and **AI Enth
 | **Weather App** – Location-based forecasts using OpenWeather API.<br/>[🔗 Live](https://pomodoro-app-react-vite.vercel.app/) \| [🔗 GitHub](https://github.com/Devansh1974/Weather-App) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![OpenWeather API](https://img.shields.io/badge/OpenWeatherAPI-FF7E00?style=for-the-badge&logo=openweathermap&logoColor=white) |
 | **Pomodoro App** – Time management tool built with React + Vite.<br/>[🔗 Live](https://pomodoro-app-react-vite.vercel.app/) \| [🔗 GitHub](https://github.com/Devansh1974/pomodoro_App_ReactVite) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) |
 | **Jio Cinema Clone** – Video streaming UI built with React.<br/>[🔗 GitHub](https://github.com/Devansh1974/Jio-Cinema-UsingReactJS) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Meme Generator** – Create & download custom memes.<br/>[🔗 Live](https://meme-generator-frontend.netlify.app/) \| [🔗 GitHub](https://github.com/Devansh1974/Meme-Generator-Frontend) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Snake & Ladder** – Classic board game in the browser.<br/>[🔗 Live](https://playsnakeladder.netlify.app/) \| [🔗 GitHub](https://github.com/Devansh1974/SnakeAndLadder) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
-| **Calculator** – Simple calculator web app.<br/>[🔗 Live](https://simple-calculator-41.netlify.app/) \| [🔗 GitHub](https://github.com/Devansh1974/Simple-Calculator-Frontend) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+
+---
+
+Let's Connect & Create something amazing for the World ! 🚀  
+
+<img src="https://komarev.com/ghpvc/?username=Devansh1974&style=flat-square&color=blue" alt="Profile Views" width="200" height="50"/>  
 
 </div>
 
-Let's Connect & Create something amazing for the World ! 🚀
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devansh1974&style=flat-square&color=blue" alt="Profile Views" width="200" height="50"/>
-</div>
 
 ## 🌐 Socials:
 <div align="center">
