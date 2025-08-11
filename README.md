@@ -21,6 +21,15 @@
   </a>
 </p>
 
+## 🚀 About Me  
+I’m **Devansh Singh**, a passionate **Full Stack Web Developer** and **AI Enthusiast** who loves crafting ideas into impactful digital experiences.  
+- 💻 Expert in **MERN Stack** & modern frameworks like **Next.js**  
+- 🤖 Exploring the world of **Machine Learning** & automation tools  
+- 🎯 Focused on **scalable, creative, and high-performance** applications  
+- 🌱 Always learning, building, and sharing with the community  
+
+📬 **Let’s Connect:** [LinkedIn](https://www.linkedin.com/in/devanshsingh2006/) | [Portfolio](https://yourportfolio.com)
+
 
 🚀 **Currently immersed in:**
 - 🔬 My **Capstone Project** – **StockBeacon** Pushing the boundaries of Finance and technology and solving Real world probem.
