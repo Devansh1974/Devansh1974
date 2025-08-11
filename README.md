@@ -86,6 +86,10 @@ I’m **Devansh Singh**, a passionate **Full Stack Web Developer** and **AI Enth
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Instagram logo" />
   </a>
 
+  <a href="https://leetcode.com/u/Devansh1974/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LeetCode logo" />
+  </a>
+
 
 </div>
 
