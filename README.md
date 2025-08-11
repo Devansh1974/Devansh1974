@@ -14,23 +14,13 @@
   Building creative, scalable, and impactful tech solutions.
 </p>
 
-<!-- Colorful Typing Animation -->
+<!-- Rainbow Typing Animation -->
 <p align="center">
   <a href="https://github.com/Devansh1974">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF6EC7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;AI+%26+Machine+Learning+Explorer;MERN+Stack+Specialist;Open+Source+Contributor;Lifelong+Learner+%F0%9F%8C%9F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;AI+%26+Machine+Learning+Explorer;MERN+Stack+Specialist;Open+Source+Contributor;Lifelong+Learner+%F0%9F%8C%9F&color=FF6EC7&color2=FFD700&color3=00FFFF&color4=ADFF2F&color5=FF4500" alt="Typing SVG" />
   </a>
 </p>
 
-
-
-<!-- # 👋🏼 Hey there, I'm Devansh – Full Stack Developer Crafting Innovative Solutions --->
-<div>
-  <h1 align="center"> Hi, I'm <a href="https://www.linkedin.com/in/devanshsingh2006/" target="_blank"> DEVANSH SINGH </a> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
-<p></h1>
-<!-- <h3 align="right" > <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=MERN+Stack+Developer+%3A)" /> </h3> -->
-<p align="right">
-  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;Crafting+UI+using+React.js+and+Next.js!;I'm+a+MERN+stack+developer!;Bringing+ideas+to+life+with+creativity+and+code!" />
-</p>
 
 🚀 **Currently immersed in:**
 - 🔬 My **Capstone Project** – **StockBeacon** Pushing the boundaries of Finance and technology and solving Real world probem.
