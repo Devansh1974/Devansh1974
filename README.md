@@ -20,7 +20,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;AI+%26+Machine+Learning+Explorer;MERN+Stack+Specialist;Open+Source+Contributor;Lifelong+Learner+%F0%9F%8C%9F&color=FF6EC7&color2=FFD700&color3=00FFFF&color4=ADFF2F&color5=FF4500" alt="Typing SVG" />
   </a>
 </p>
+
 ---
+
 ## 🚀 About Me  
 I’m **Devansh Singh**, a passionate **Full Stack Web Developer** and **AI Enthusiast** who loves crafting ideas into impactful digital experiences.  
 - 💻 Expert in **MERN Stack** & modern frameworks like **Next.js**  
