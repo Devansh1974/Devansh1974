@@ -1,5 +1,20 @@
 <img src="image2.jpeg" alt="GitHub Banner" width="100%" />
 
+<!-- Intro Section -->
+<h2 align="center">👋 Hey there, I'm Devansh Singh</h2>
+<p align="center">
+  🚀 Full Stack Developer | 🤖 AI Enthusiast | 💡 Problem Solver <br>
+  Building creative, scalable, and impactful tech solutions.
+</p>
+
+<!-- Colorful Typing Animation -->
+<p align="center">
+  <a href="https://github.com/Devansh1974">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF6EC7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;AI+%26+Machine+Learning+Explorer;MERN+Stack+Specialist;Open+Source+Contributor;Lifelong+Learner+%F0%9F%8C%9F" alt="Typing SVG" />
+  </a>
+</p>
+
+
 <!-- # 👋🏼 Hey there, I'm Devansh – Full Stack Developer Crafting Innovative Solutions --->
 <div>
   <h1 align="center"> Hi, I'm <a href="https://www.linkedin.com/in/devanshsingh2006/" target="_blank"> DEVANSH SINGH </a> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
