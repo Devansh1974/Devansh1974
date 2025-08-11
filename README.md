@@ -107,7 +107,7 @@ I’m **Devansh Singh**, a passionate **Full Stack Web Developer** and **AI Enth
 
 ---
 
-<p align="center">
+<dev align="center">
 
 ## 💻 Tech Stack
 
@@ -164,6 +164,8 @@ I’m **Devansh Singh**, a passionate **Full Stack Web Developer** and **AI Enth
   <a href="https://www.heroku.com/"><img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"></a>
   <a href="https://railway.app/"><img src="https://img.shields.io/badge/Railway-%23121011.svg?style=for-the-badge&logo=railway&logoColor=white"></a>
 </p>
+
+</div>
 
 ---
 
