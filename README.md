@@ -73,6 +73,10 @@ Let's Connect & Create something amazing for the World ! 🚀
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn logo" />
   </a>
 
+  <a href="https://medium.com/@devanshsingh1974" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Medium logo" />
+  </a>
+
   <a href="https://twitter.com/D3v_Raghuvanshi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="X logo" />
   </a>
@@ -81,9 +85,7 @@ Let's Connect & Create something amazing for the World ! 🚀
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Instagram logo" />
   </a>
 
-  <a href="https://medium.com/@devanshsingh1974" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Medium logo" />
-  </a>
+
   
   <br><br>
 
