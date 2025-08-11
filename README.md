@@ -20,7 +20,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;AI+%26+Machine+Learning+Explorer;MERN+Stack+Specialist;Open+Source+Contributor;Lifelong+Learner+%F0%9F%8C%9F&color=FF6EC7&color2=FFD700&color3=00FFFF&color4=ADFF2F&color5=FF4500" alt="Typing SVG" />
   </a>
 </p>
-
+---
 ## 🚀 About Me  
 I’m **Devansh Singh**, a passionate **Full Stack Web Developer** and **AI Enthusiast** who loves crafting ideas into impactful digital experiences.  
 - 💻 Expert in **MERN Stack** & modern frameworks like **Next.js**  
@@ -29,30 +29,47 @@ I’m **Devansh Singh**, a passionate **Full Stack Web Developer** and **AI Enth
 - 🌱 Always learning, building, and sharing with the community  
 
 📬 **Let’s Connect:** [LinkedIn](https://www.linkedin.com/in/devanshsingh2006/) | [Portfolio](https://yourportfolio.com)
+---
+## 🚀 Currently Building
 
+- **StockBeacon** – Finance & stock analysis platform with AI insights.  
+  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white) 
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
+  🔗 [GitHub](https://github.com/Devansh1974/S69_Devansh_Capstone_StockBeacon)
 
-🚀 **Currently immersed in:**
-- 🔬 My **Capstone Project** – **StockBeacon** Pushing the boundaries of Finance and technology and solving Real world probem.
-- 🎯 Collaborating on **SkillBoost AI-Career Planner** – A project aimed at empowering career growth through AI-driven insights.
-- 💁 Making FOREVER-Ecommerce Website - frontend & backend with Admin page. ([Check_GitHub](https://github.com/Devansh1974/e-commerce-forever))
+- **FOREVER – Ecommerce Platform** – MERN stack store with admin dashboard.  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) 
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) 
+  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white)  
+  🔗 [GitHub](https://github.com/Devansh1974/e-commerce-forever)
 
-💡 **Explore my GitHub to Discover a variety of projects, including:**
+---
 
-- Developed a MCP tool for TwitterPost using MCP Server and Gemini AI, which can create a post and POST it on your X. [Check Code](https://github.com/Devansh1974/MCP_AI_Server_Agent)
+## 🌟 Featured Projects
 
-- 🏭 Build a Factory-Health Check & Maintenance system ([Check_GitHub](https://github.com/Devansh1974/Factory_Maintainance_LLM_Model)) using LLMs and AI for predictive maintenance and optimized operational costs.
-- 🤖 Developed an advanced **Dev AI Bot** to enhance intelligent automation. [Click Here to Try](https://dev-ai-bot.netlify.app/)
-- 🌦️ A dynamic **Weather App** with geolocation and detailed forecasts. [Click Here to Try](https://check-weather11.netlify.app/)
-- 🎲 A fun **Snake and Ladder Game**. [Click Here to Try](https://playsnakeladder.netlify.app/)
-- 🎬 A **Jio Cinema Clone** built with **React.js**
-- 🧮 A sleek **Calculator** [Click Here to Try](https://simple-calculator-41.netlify.app/)
-- ⏳ A handy **Countdown Timer App**
-- 📊 An intuitive **Expense Tracker** that helps you to manage your expenses handy.
-- 🎨 Multiple creative projects styled using **Tailwind CSS** with good UI's.
+- **Chatty – Full Stack Chat App** – Real-time messaging with Socket.io.  
+  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white) 
+  ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)  
+  🔗 [Live](https://chatty-onlinechattingapp.onrender.com/) | [GitHub](https://github.com/Devansh1974/chat_app_fullstack)
 
-🎓 Currently pursuing **Software Product Engineering** from Bengaluru, while Continually Refining my Skills and embracing new challenges.
+- **Dev AI Bot** – AI-powered assistant for intelligent automation.  
+  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
+  ![OpenAI](https://img.shields.io/badge/AI-Assistant-blue?style=flat)  
+  🔗 [Live](https://dev-ai-bot.netlify.app/) | [GitHub](https://github.com/Devansh1974/Dev_AI_Bot)
 
-💻 Passionate about building seamless Digital experiences and diving deep into Full-stack development since 2024.
+- **MCP Twitter Post Tool** – Auto-generate & post tweets using MCP Server + Gemini AI.  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+  ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-blue?style=flat&logo=google)  
+  🔗 [GitHub](https://github.com/Devansh1974/MCP_AI_Server_Agent)
+
+- **Weather App** – Location-based forecasts using OpenWeather API.  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+  ![API](https://img.shields.io/badge/OpenWeatherAPI-FF5733?style=flat)  
+  🔗 [Live](https://check-weather11.netlify.app/) | [GitHub](https://github.com/Devansh1974/Weather-App)
+
 
 Let's Connect & Create something amazing for the World ! 🚀
 
