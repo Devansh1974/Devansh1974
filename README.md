@@ -181,8 +181,8 @@ Let's Connect & Create something amazing for the World ! 🚀
   </table>
 
   <!-- Trophies Section -->
-  <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Devansh1974&theme=dracula&no-frame=false&no-bg=false&margin-w=4" width="700px" />
+  <!-- <h2>🏆 GitHub Trophies</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=Devansh1974&theme=dracula&no-frame=false&no-bg=false&margin-w=4" width="800px" /> -->
 
   <!-- Contribution Streak Graph -->
   <h2>🔥 Contribution Graph</h2>
