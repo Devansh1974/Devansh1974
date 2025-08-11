@@ -58,7 +58,6 @@ I’m **Devansh Singh**, a passionate **Full Stack Web Developer** and **AI Enth
 
 ---
 
-Let's Connect & Create something amazing for the World ! 🚀  
 
 <img src="https://komarev.com/ghpvc/?username=Devansh1974&style=flat-square&color=blue" alt="Profile Views" width="200" height="50"/>  
 
