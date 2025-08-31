@@ -40,7 +40,7 @@ I’m **Devansh Singh**, a passionate **Full Stack Web Developer** and **AI Enth
 
 | Project | Tech Stack |
 |---------|------------|
-| **StockBeacon** – Finance & stock analysis platform with AI insights.<br/>[🔗 GitHub](https://github.com/Devansh1974/S69_Devansh_Capstone_StockBeacon) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **StockBeacon** – Finance & Stock analysis platform with AI insights.<br/>[🔗 GitHub](https://github.com/Devansh1974/S69_Devansh_Capstone_StockBeacon) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
 | **FOREVER – Ecommerce Platform** – MERN stack store with admin dashboard.<br/>[🔗 GitHub](https://github.com/Devansh1974/e-commerce-forever) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) |
 
 ---
