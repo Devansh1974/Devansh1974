@@ -11,7 +11,7 @@
 
 <p align="center">
   🚀 Full Stack Developer | 🤖 AI Enthusiast | 💡 Problem Solver <br>
-  Building creative, scalable, and impactful tech solutions.
+  Building Creative, scalable, and impactful tech solutions.
 </p>
 
 <!-- Rainbow Typing Animation -->
