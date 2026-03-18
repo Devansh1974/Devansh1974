@@ -1,4 +1,4 @@
-<img src="image2.jpeg" alt="GitHub Banner" width="100%" />
+<!-- <img src="image2.jpeg" alt="GitHub Banner" width="100%" /> -->
 
 <!-- Intro Section -->
 <h1 align="center" style="font-size: 2.8em;">
